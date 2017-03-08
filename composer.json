@@ -1,0 +1,12 @@
+{
+    "name": "fryiee/pyro-repeater-validators",
+    "description": "Additional repeaters for PyroCMS 3 Repeater Field Type.",
+    "keywords": ["pyrocms", "laravel"],
+    "license": "MIT",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Fryiee\\RepeaterValidators\\": "src/"
+        }
+    }
+}
