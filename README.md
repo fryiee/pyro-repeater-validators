@@ -65,7 +65,7 @@ e.g.
     ],
   ],
   'rules' => [
-    'validate_with_laravel_rules:ip_address,ip,'`',string'
+    'validate_with_laravel_rules:ip_address,ip,`,string'
   ],
 ]
 ```
