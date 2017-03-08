@@ -87,7 +87,7 @@ e.g ```phone_number,12345678,3``` would mean that at most 3 of the phone_number 
 e.g ```phone_number,12345678,3``` would mean that at least 3 of the phone_number fields in the repeater form would have to be equal to 12345678.
 
 ### ValidateFieldWithLaravelRules
-```{field},{amount},`,{laravel_rule2},`,{laravel_rule3}```
+```{field},{laravel_rule1},`,{laravel_rule2},`,{laravel_rule3}```
 
 e.g ```phone_number,string,`,numeric,`,in:1,2,3,4,5,6``` would mean that phone_number would need to be string, numeric and be within the given array of values.
 
