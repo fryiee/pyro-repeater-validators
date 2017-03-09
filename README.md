@@ -81,7 +81,7 @@ e.g ```phone_number,12345678,3``` would mean that exactly 3 of the phone_number 
 
 e.g ```phone_number,12345678,3``` would mean that at most 3 of the phone_number fields in the repeater form would have to be equal to 12345678.
 
-### ValidateFieldValueMaximumAmount
+### ValidateFieldValueMinimumAmount
 ```{field},{value},{amount}```
 
 e.g ```phone_number,12345678,3``` would mean that at least 3 of the phone_number fields in the repeater form would have to be equal to 12345678.
