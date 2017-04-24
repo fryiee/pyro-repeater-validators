@@ -92,4 +92,4 @@ e.g ```phone_number,12345678,3``` would mean that at least 3 of the phone_number
 e.g ```phone_number,string,`,numeric,`,in:1,2,3,4,5,6``` would mean that phone_number would need to be string, numeric and be within the given array of values.
 
 ## License
-This package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+### This package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
